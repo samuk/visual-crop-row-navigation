@@ -1,4 +1,4 @@
-# Visual Crop Row Navigation
+# Visual Crop Row Navigation ROS2
 
 <div align="center">
 	<img src=".readme/vs_poster.png" alt="visual_servoing_husky" height="180" title="visual_servoing_husky"/>
@@ -45,7 +45,7 @@ A complete Gazebo simulation package is provided in [agribot_robot](https://gith
     <img src=".readme/motivation_old.png" alt="gazebo_navigation" height="280"title="gazebo_navigation"/>
 </div>
 
-## Dependencies
+## Assess migration to ROS2
 
 - c++11
 - catkin
